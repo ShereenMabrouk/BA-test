@@ -1,0 +1,10 @@
+# issue_categories.txt
+
+# Category: Hardware
+Monitor
+Keyboard
+Mouse
+
+# Category: Software
+Operating System
+Application
